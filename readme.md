@@ -7,7 +7,9 @@ A partir de ese momento, lo subimos en github</p>
 </p>
 
 ![Hacemos el npm install](./content/npm%20install.png)<p>
-![Creamos un repositorio local](./content/Repositorio%20local.pngcontent)<p>
+
+![Creamos un repositorio local](./content/Repositorio%20local.png)<p>
+
 ![Creamos el git ignore](./content/Git%20ignore.png)<p>
 
 
