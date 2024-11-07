@@ -6,9 +6,9 @@ Después del git add ., hacemos el commit inicial
 A partir de ese momento, lo subimos en github</p>
 </p>
 
-![Hacemos el npm install](./content/npm%20install.png)
-![Creamos un repositorio local](./content/Repositorio%20local.pngcontent)
-![Creamos el git ignore](./content/Git%20ignore.png)
+![Hacemos el npm install](./content/npm%20install.png)<p>
+![Creamos un repositorio local](./content/Repositorio%20local.pngcontent)<p>
+![Creamos el git ignore](./content/Git%20ignore.png)<p>
 
 
 
